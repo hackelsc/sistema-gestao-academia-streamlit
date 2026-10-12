@@ -1,0 +1,12 @@
+# Ambiente Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# IDE
+.idea/
+
+# Pastas pessoais de estudo
+conceitos_novos/
+exemplos_cadastro/
